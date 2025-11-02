@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  navbar:
+    left:
+      - href: willkommen.qmd
+        text: Wilkommen
+      - href: uebermich.qmd
+        text: Über mich
+      - href: hypnose.qmd
+        text: Was ist Hypnose?
+      - href: leistungen.qmd
+        text: Angebotene Leistungen
+      - href: preise.qmd
+        text: Preise
+      - href: kontakt.qmd
+        text: Kontakt
+  page-footer:
+    center: "© 2025 Dein Name"
+  favicon: favicon.ico  # Optional
+
+format:
+  html:
+    theme: cosmo  # Du kannst ein anderes Theme wählen, z.B. "flatly", "darkly", etc.
+    css: styles.css
+    toc: false
