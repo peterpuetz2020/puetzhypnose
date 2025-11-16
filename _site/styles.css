@@ -1,1 +1,23 @@
 /* css styles */
+/* For desktop: side-by-side layout with space between */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px; /* Space between columns */
+  margin-bottom: 20px;
+}
+.column {
+  flex: 1;
+  min-width: 300px; /* Minimum width for mobile */
+  padding: 10px;
+}
+
+/* For mobile: stack columns vertically */
+@media (max-width: 768px) {
+  .row {
+    flex-direction: column;
+  }
+  .column {
+    width: 100%;
+  }
+}

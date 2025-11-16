@@ -1,0 +1,79 @@
+---
+title: "Datenschutzerklärung"
+format:
+  html:
+    toc: false
+---
+
+## **Datenschutzerklärung**
+
+### 1. Verantwortlicher für die Datenverarbeitung
+
+Peter Pütz
+
+Kleine Howe 10, 33607 Bielefeld, Deutschland
+
+ppuetz\[at\]posteo.de
+
+------------------------------------------------------------------------
+
+### 2. Allgemeine Hinweise
+
+Diese Datenschutzerklärung informiert Sie über Art, Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch diese Website. Zweck der Website ist die Bereitstellung von Informationen zu meinen Hypnose- und Coaching-Angeboten sowie die Möglichkeit zur Kontaktaufnahme. Diese Website nutzt keine Cookies und keine Tracking-Tools. Es werden keine personenbezogenen Daten automatisch erhoben, es sei denn, Sie kontaktieren mich aktiv per E-Mail.
+
+------------------------------------------------------------------------
+
+### 3. Hosting über Quarto Hub / Quarto Pub
+
+Die Website wird über Quarto Pub / Quarto Hub veröffentlicht, einem Hosting-Dienst der *Posit Software, PBC* (ehemals RStudio). Beim Zugriff auf die Website werden technisch notwendige Daten automatisch verarbeitet. Dazu zählen:
+
+-    IP-Adresse
+
+-    Datum und Uhrzeit des Zugriffs
+
+-   aufgerufene Datei / URL
+
+-    Browsertyp und -versio
+
+-    Betriebssystem
+
+-   Referrer-URL
+
+Diese Daten werden verarbeitet, um einen sicheren und stabilen Betrieb der Website zu gewährleisten. Eine Zusammenführung dieser Daten mit anderen Datenquellen erfolgt nicht.
+
+------------------------------------------------------------------------
+
+### 4. Kontaktaufnahme per E-Mail 
+
+#### a) Beschreibung der Datenverarbeitung
+
+Wenn Sie mich per E-Mail erreichen, werden Ihre Angaben (Name, E-Mail-Adresse, Nachricht) zur Bearbeitung Ihrer Anfrage gespeichert. Diese Daten werden nicht ohne Ihre Einwilligung an Dritte weitergegeben.
+
+#### b) Rechtsgrundlage
+
+Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (zur Vertragsanbahnung bzw. Durchführung eines Vertrags) und Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung Ihrer Anfrage).
+
+#### c) Speicherdauer
+
+Ihre Daten werden gelöscht, sobald Ihre Anfrage abschließend bearbeitet wurde und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+
+------------------------------------------------------------------------
+
+### 5. Ihre Rechte
+
+Als Betroffener der Datenverarbeitung haben Sie folgende Rechte:
+
+-   Auskunft über die von uns verarbeiteten Daten (Art. 15 DSGVO).
+-   Berichtigung unrichtiger Daten (Art. 16 DSGVO).
+-   Löschung Ihrer Daten („Recht auf Vergessenwerden“, Art. 17 DSGVO).
+-   Einschränkung der Verarbeitung (Art. 18 DSGVO).
+-   Widerspruch gegen die Verarbeitung (Art. 21 DSGVO).
+-   Datenübertragbarkeit (Art. 20 DSGVO).
+
+Um diese Rechte geltend zu machen, kontaktieren Sie mich bitte unter der oben genannten E-Mail-Adresse.
+
+------------------------------------------------------------------------
+
+### **6. Aktualisierung dieser Datenschutzerklärung**
+
+Diese Datenschutzerklärung wird bei Bedarf aktualisiert. Der aktuelle Stand ist: November 2025.

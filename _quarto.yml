@@ -5,7 +5,7 @@ project:
 website:
   navbar:
     left:
-      - href: willkommen.qmd
+      - href: index.qmd
         text: Wilkommen
       - href: uebermich.qmd
         text: Über mich
@@ -18,11 +18,16 @@ website:
       - href: kontakt.qmd
         text: Kontakt
   page-footer:
-    center: "© 2025 Dein Name"
+    left: "© 2025 Peter Pütz"
+    right:
+      - href: impressum.qmd
+        text: Impressum
+      - href: datenschutz.qmd
+        text: Datenschutz
   favicon: favicon.ico  # Optional
 
 format:
   html:
-    theme: cosmo  # Du kannst ein anderes Theme wählen, z.B. "flatly", "darkly", etc.
+    theme: flatly  # Du kannst ein anderes Theme wählen, z.B. "flatly", "darkly", etc.
     css: styles.css
     toc: false

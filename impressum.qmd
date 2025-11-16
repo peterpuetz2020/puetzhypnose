@@ -1,0 +1,30 @@
+---
+title: "Impressum"
+format:
+  html:
+    toc: false
+---
+
+## **Angaben gemäß § 5 TMG**
+
+Inhaltlich verantwortlich für diese Website:
+
+Peter Pütz
+
+Kleine Howe 10, 33607 Bielefeld, Deutschland
+
+ppuetz\[at\]posteo.de
+
+------------------------------------------------------------------------
+
+## **Haftungsausschluss**
+
+Haftung für Inhalte: Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann ich jedoch keine Gewähr übernehmen.
+
+Haftung für Links: Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich.
+
+------------------------------------------------------------------------
+
+## Urheberrecht
+
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.

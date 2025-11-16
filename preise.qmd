@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "Preise"
 ---
 
-About this site
+Bei mir gibt es eine Zufriedenheitsgarantie: Wenn Du mit meiner Arbeit nicht zufrieden bist, erhältst Du Dein Geld zurück. Ansonsten berechne ich folgende Preise:
 
-```{r}
-1 + 1
-```
+-   Individuelle Entspannungshypnose inklusive Erlebnis von Hypnosephänomenen und kurzem Vor- und Nachgespräch (insgesamt ca. 90 Minuten, davon ca. 60 Minuten Hypnose): 90 €.
+
+-   Coaching-Prozess zur Unterstützung bei einer Verhaltensänderung (z. B. Rauchentwöhnung), in der Regel bestehend aus 2-3 Sitzungen inklusive Hypnose (ca. 90-120 Minuten pro Sitzung) sowie Begleitung zwischen den Sitzungen: 180€ pro Sitzung.

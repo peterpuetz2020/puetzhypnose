@@ -1,9 +1,19 @@
 ---
-title: "About"
+title: "Was ist Hypnose?"
 ---
 
-About this site
+Hypnose ist ein natürlicher Zustand tiefer Entspannung und konzentrierter Aufmerksamkeit. Gleichzeitig wird als Hypnose auch das Verfahren bezeichnet, um diesen Zustand gezielt zu erreichen. In diesem Zustand ist das Unterbewusstsein besonders offen für positive Veränderungen und neue Perspektiven. Hypnose ermöglicht es, Blockaden zu lösen, Ängste zu überwinden und unbewusste Muster zu verändern.
 
-```{r}
-1 + 1
-```
+In der Hypnose bleibst Du stets bei Bewusstsein und behältst die Kontrolle. Es ist ein sanfter Weg, um innere Ressourcen zu aktivieren und das eigene Potenzial zu entfalten. Ob zur Rauchentwöhnung, Stressbewältigung oder persönlichen Weiterentwicklung – Hypnose unterstützt Dich dabei, Deine Ziele leichter und nachhaltiger zu erreichen.
+
+Links mit ausführlicheren Informationen darüber, was Hypnose ist und wie sie funktioniert:
+
+-   <https://www.planet-wissen.de/gesellschaft/psychologie/hypnose>
+
+-   <https://flexikon.doccheck.com/de/Hypnose>
+
+-   <https://www.duden.de/rechtschreibung/Hypnose>
+
+-   [https://www.netdoktor.de/therapien/psychotherapie/hypnose](https://www.netdoktor.de/therapien/psychotherapie/hypnose/)
+
+-   <https://de.wikipedia.org/wiki/Hypnose>

@@ -1,9 +1,9 @@
 ---
-title: "Willkommen"
+title: "Kontakt"
 ---
 
-About this site
+Kontaktiere mich gerne für ein kostenloses Vorgespräch oder falls Du Fragen hast:
 
-```{r}
-1 + 1
-```
+<a href="mailto:ppuetz@posteo.de" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  Nachricht an Peter senden
+</a>
