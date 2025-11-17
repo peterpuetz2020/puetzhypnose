@@ -157,18 +157,17 @@ ul.task-list li input[type="checkbox"] {
 <p>Diese Datenschutzerklärung informiert Sie über Art, Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch diese Website. Zweck der Website ist die Bereitstellung von Informationen zu meinen Hypnose- und Coaching-Angeboten sowie die Möglichkeit zur Kontaktaufnahme. Diese Website nutzt keine Cookies und keine Tracking-Tools. Es werden keine personenbezogenen Daten automatisch erhoben, es sei denn, Sie kontaktieren mich aktiv per E-Mail.</p>
 <hr>
 </section>
-<section id="hosting-über-quarto-hub-quarto-pub" class="level3">
-<h3 class="anchored" data-anchor-id="hosting-über-quarto-hub-quarto-pub">3. Hosting über Quarto Hub / Quarto Pub</h3>
-<p>Die Website wird über Quarto Pub / Quarto Hub veröffentlicht, einem Hosting-Dienst der <em>Posit Software, PBC</em> (ehemals RStudio). Beim Zugriff auf die Website werden technisch notwendige Daten automatisch verarbeitet. Dazu zählen:</p>
+<section id="hosting-über-quarto-pub" class="level3">
+<h3 class="anchored" data-anchor-id="hosting-über-quarto-pub">3. Hosting über Quarto Pub</h3>
+<p>Die Website wird über Quarto Pub veröffentlicht, einem Hosting-Dienst der <em>Posit Software, PBC</em> (ehemals RStudio). Beim Zugriff auf die Website werden technisch notwendige Daten automatisch verarbeitet. Dazu zählen:</p>
 <ul>
 <li><p>IP-Adresse</p></li>
 <li><p>Datum und Uhrzeit des Zugriffs</p></li>
 <li><p>aufgerufene Datei / URL</p></li>
 <li><p>Browsertyp und -versio</p></li>
 <li><p>Betriebssystem</p></li>
-<li><p>Referrer-URL</p></li>
+<li><p>Referrer-URL.</p></li>
 </ul>
-<p>Diese Daten werden verarbeitet, um einen sicheren und stabilen Betrieb der Website zu gewährleisten. Eine Zusammenführung dieser Daten mit anderen Datenquellen erfolgt nicht.</p>
 <hr>
 </section>
 <section id="kontaktaufnahme-per-e-mail" class="level3">
@@ -282,7 +281,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/puetz-hypnose\.quarto\.pub\/puetzhypnose");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

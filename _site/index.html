@@ -145,8 +145,8 @@ ul.task-list li input[type="checkbox"] {
 
 <p><img src="img/PP4.jpg" class="img-fluid" width="513"></p>
 <p>Hallo und herzlich willkommen auf meiner Homepage!</p>
-<p>Ich bin <a href="./uebermich.html">Peter Pütz</a> – Statistiker, Wissenschaftler und leidenschaftlicher <a href="./hypnose.html">Hpynose</a>-Coach.</p>
-<p>Auf dieser Seite findest Du zwei <a href="./leistungen.html">Angebote</a> von mir, die Ihnen helfen können, zu mehr Ruhe oder zu nachhaltiger Veränderung zu gelangen:</p>
+<p>Ich bin <a href="./uebermich.html">Peter Pütz</a> – Statistiker, Wissenschaftler und <a href="./hypnose.html">Hpynose</a>-Coach.</p>
+<p>Auf dieser Seite findest Du zwei <a href="./leistungen.html">Angebote</a> von mir, die Dir helfen können, zu mehr Ruhe oder zu nachhaltiger Veränderung zu gelangen:</p>
 <p>Mit meiner auf Dich zugeschnittenen Entspannungshypnose schenkst Du Dir eine Auszeit. Vielleicht bist Du gestresst, möchtest einfach mal abschalten oder Hypnose bewusst erleben? Ich nehme Dich mit auf eine entspannende Reise, bei der Du Kraft tankst und Neues entdeckst.</p>
 <p>Im Hypnose-Coaching gehen wir gemeinsam Deine Ziele an: Ob Du alte Muster loslassen, mehr Leichtigkeit im Alltag finden oder konkrete Veränderungen umsetzen möchtest – ich unterstütze Dich mit einem klaren, lösungsorientierten Ansatz.</p>
 <p>Ein besonderer Aspekt meiner Arbeit ist meine <a href="./preise.html">Zufriedenheitsgarantie</a>: Wenn Du mit meiner Arbeit nicht zufrieden bist, erhältst Du Dein Geld zurück.</p>
@@ -227,7 +227,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/puetz-hypnose\.quarto\.pub\/puetzhypnose");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

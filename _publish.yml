@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: bc116216-a8c9-4bfb-a233-b2e338944a21
+      url: https://puetz-hypnose.quarto.pub/puetzhypnose

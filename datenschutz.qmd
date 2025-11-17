@@ -23,27 +23,25 @@ Diese Datenschutzerklärung informiert Sie über Art, Umfang und Zwecke der Erhe
 
 ------------------------------------------------------------------------
 
-### 3. Hosting über Quarto Hub / Quarto Pub
+### 3. Hosting über Quarto Pub
 
-Die Website wird über Quarto Pub / Quarto Hub veröffentlicht, einem Hosting-Dienst der *Posit Software, PBC* (ehemals RStudio). Beim Zugriff auf die Website werden technisch notwendige Daten automatisch verarbeitet. Dazu zählen:
+Die Website wird über Quarto Pub veröffentlicht, einem Hosting-Dienst der *Posit Software, PBC* (ehemals RStudio). Beim Zugriff auf die Website werden technisch notwendige Daten automatisch verarbeitet. Dazu zählen:
 
--    IP-Adresse
+-   IP-Adresse
 
--    Datum und Uhrzeit des Zugriffs
+-   Datum und Uhrzeit des Zugriffs
 
 -   aufgerufene Datei / URL
 
--    Browsertyp und -versio
+-   Browsertyp und -versio
 
--    Betriebssystem
+-   Betriebssystem
 
--   Referrer-URL
-
-Diese Daten werden verarbeitet, um einen sicheren und stabilen Betrieb der Website zu gewährleisten. Eine Zusammenführung dieser Daten mit anderen Datenquellen erfolgt nicht.
+-   Referrer-URL.
 
 ------------------------------------------------------------------------
 
-### 4. Kontaktaufnahme per E-Mail 
+### 4. Kontaktaufnahme per E-Mail
 
 #### a) Beschreibung der Datenverarbeitung
 

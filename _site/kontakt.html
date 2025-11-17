@@ -143,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Kontaktiere mich gerne für ein kostenloses Vorgespräch oder falls Du Fragen hast:</p>
+<p>Kontaktiere mich gerne für ein kostenloses Vorgespräch oder falls Du Fragen hast - ich freue mich auf Deine Nachricht:</p>
 <p><a href="mailto:ppuetz@posteo.de" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;"> Nachricht an Peter senden </a></p>
 
 
@@ -221,7 +221,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/puetz-hypnose\.quarto\.pub\/puetzhypnose");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
