@@ -6,7 +6,7 @@ title: "Willkommen"
 
 Hallo und herzlich willkommen auf meiner Homepage!
 
-Ich bin [Peter Pütz](uebermich.qmd) – Statistiker, Wissenschaftler und [Hpynose](hypnose.qmd)-Coach.
+Ich bin [Peter Pütz](uebermich.qmd) – promovierter Statistiker, Wissenschaftler und [Hypnose](hypnose.qmd)-Coach aus Bielefeld.
 
 Auf dieser Seite findest Du zwei [Angebote](leistungen.qmd) von mir, die Dir helfen können, zu mehr Ruhe oder zu nachhaltiger Veränderung zu gelangen:
 
