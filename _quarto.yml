@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - google769a8c2ec2f37aef.html
+    - BingSiteAuth.xml
 
 website:
   navbar:
